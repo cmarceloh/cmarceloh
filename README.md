@@ -5,7 +5,7 @@
 - **Ubicación:** Buenos Aires, Argentina  
 
 ## Habilidades y Tecnologías
-[Lenguajes y Herramientas](https://marce.com.ar/img-github.jpeg)
+[Lenguajes y Herramientas]https://marce.com.ar/img-github.jpeg
 
 ## Enlaces
 - [GitHub](https://github.com/TU_USUARIO)  
