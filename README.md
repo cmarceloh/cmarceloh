@@ -1,6 +1,6 @@
 <div lang="es"></div>
 
-# 💼 Carlos Marcelo Hernández
+# Carlos Marcelo Hernández
 
 ## Sobre mí
 - **Rol:** Técnico en computación y estudiante avanzado de Desarrollo de Software.  
@@ -9,9 +9,7 @@
 ## Habilidades y Tecnologías
 ![Lenguajes y Herramientas](https://marce.com.ar/img-github.jpeg)
 
-## Enlaces
-- [GitHub](https://github.com/cmarceloh)  
-- [Mi Portafolio](https://marce.com.ar)
+
 
 
 
