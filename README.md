@@ -7,7 +7,7 @@
 - **Ubicación:** Barracas, Buenos Aires, Argentina.
 
 ## Habilidades y Tecnologías
-![Lenguajes y Herramientas](https://marce.com.ar/img-github.jpeg)
+<img src="https://marce.com.ar/img-github.jpeg" width="50%" alt="Lenguajes y Herramientas">
 
 
 
