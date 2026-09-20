@@ -1,4 +1,4 @@
-Markdow<div lang="es">
+<div lang="es">
 
 # ¡Marcelo!
 
@@ -17,8 +17,8 @@ Markdow<div lang="es">
 <div align="center">
   <h2>Insignias y certificaciones</h2>
 
-  <a href="https://www.credly.com/badges/5062af69-2948-4d17-a783-7ea01ad3030b/public_url">
-    ./aws-cloud-foundations.png
+  <a href="https://www.credly.com/badges/5062af69-2948-4d17-a783-7ea01ad3030b/public_url" target="_blank">
+    aws-cloud-foundations.png
   </a>
 
   <p><strong>AWS Academy Graduate - Cloud Foundations</strong></p>
