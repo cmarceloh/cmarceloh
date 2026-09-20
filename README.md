@@ -9,7 +9,7 @@
 
 <div align="center">
   <h2>Habilidades y tecnologías</h2>
-  <img src="https://marce.com.ar/img-github.jpeg" width="50%" alt="Lenguajes y herramientas">
+  <img src="habilidades.png" width="50%" alt="Lenguajes y herramientas">
 </div>
 
 <br>
