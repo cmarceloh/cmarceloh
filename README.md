@@ -7,9 +7,9 @@
 - **Rol:** Técnico en Computación (CPU, notebooks, tablets y celulares) y estudiante de Desarrollo de Software en el IFTS N.º 29.
 - **Ubicación:** Barracas, Buenos Aires, Argentina.
 
+<h2 align="center">🚀 Habilidades y Tecnologías</h2>
 <div align="center">
-  <h2>Habilidades y tecnologías</h2>
-  <img src="habilidades.png" width="50%" alt="Lenguajes y herramientas">
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,kotlin,androidstudio,git,github,fvscode,linux,aws](https://skillicons.dev)
 </div>
 
 <br>
