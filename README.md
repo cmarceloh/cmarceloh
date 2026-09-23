@@ -17,14 +17,7 @@
 
 <div align="center">
   <h2>Habilidades y tecnologías</h2>
-  
-  <img
-  src="habilidades.png"
-  width="600"
-  height="300"
-  alt="Lenguajes y herramientas"
->
-  
+  <img src="habilidades.png" width="50%" alt="Lenguajes y herramientas" />
 </div>
 
 <br>
