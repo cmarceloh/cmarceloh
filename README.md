@@ -5,6 +5,7 @@
 ## Sobre mí
 
 - **Rol:** Técnico en Computación (CPU, notebooks, tablets y celulares) y estudiante del **último año** de la carrera de Desarrollo de Software en el IFTS N.º 29.
+- **Enfoque Full Stack:** Disfruto crear proyectos desde cero y abarcar ambos mundos del desarrollo. Me apasiona construir tanto la arquitectura y lógica del servidor (Back End) como diseñar y maquetar la experiencia interactiva del usuario (Front End).
 - **Ubicación:** Barracas, Buenos Aires, Argentina.
 - **📚 Actualmente cursando (Último año del IFTS):**
   - Desarrollo de Sistemas Web (Back End) con **Node.js**.
