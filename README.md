@@ -13,7 +13,8 @@
   - Ingeniería de Software.
   - Desarrollo e Implementación de Sistemas en la Nube (**AWS**).
 - **🚀 Formación adicional:**
-  - Curso de Frontend con **JavaScript** (extracurricular, enfocado en reforzar saberes base para dominar mejor React).
+  - Curso de Frontend con **JavaScript** (extracurricula, enfocado en fortalecer mis fundamentos de desarrollo web para avanzar con confianza en React.
+  - Destaco especialmente la calidad de la enseñanza y el excelente acompañamiento de la profesora durante la cursada, Aguante Talento Tech.).
 
 <div align="center">
   <h2>Habilidades y tecnologías</h2>
