@@ -18,29 +18,29 @@
   - **Aguante < Talento Tech />**
 
 <div align="center">
-  <h2>Habilidades y tecnologías</h2>
+  <h2 id="habilidades">Habilidades y tecnologías</h2>
   <p>
-    <img src="https://img.shields.io/badge/⚡_HTML5-1e1e1e?style=for-the-badge" alt="HTML5" />
-    <img src="https://img.shields.io/badge/⚡_CSS3-1e1e1e?style=for-the-badge" alt="CSS3" />
-    <img src="https://img.shields.io/badge/⚡_JavaScript-1e1e1e?style=for-the-badge" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/⚡_Python-1e1e1e?style=for-the-badge" alt="Python" />
+    <a href="#habilidades"><img src="https://img.shields.io/badge/⚡_HTML5-1e1e1e?style=for-the-badge" alt="HTML5" /></a>
+    <a href="#habilidades"><img src="https://img.shields.io/badge/⚡_CSS3-1e1e1e?style=for-the-badge" alt="CSS3" /></a>
+    <a href="#habilidades"><img src="https://img.shields.io/badge/⚡_JavaScript-1e1e1e?style=for-the-badge" alt="JavaScript" /></a>
+    <a href="#habilidades"><img src="https://img.shields.io/badge/⚡_Python-1e1e1e?style=for-the-badge" alt="Python" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/⚡_C%23-1e1e1e?style=for-the-badge" alt="C#" />
-    <img src="https://img.shields.io/badge/⚡_Kotlin-1e1e1e?style=for-the-badge" alt="Kotlin" />
-    <img src="https://img.shields.io/badge/⚡_MySQL-1e1e1e?style=for-the-badge" alt="MySQL" />
-    <img src="https://img.shields.io/badge/⚡_SQLite-1e1e1e?style=for-the-badge" alt="SQLite" />
+    <a href="#habilidades"><img src="https://img.shields.io/badge/⚡_C%23-1e1e1e?style=for-the-badge" alt="C#" /></a>
+    <a href="#habilidades"><img src="https://img.shields.io/badge/⚡_Kotlin-1e1e1e?style=for-the-badge" alt="Kotlin" /></a>
+    <a href="#habilidades"><img src="https://img.shields.io/badge/⚡_MySQL-1e1e1e?style=for-the-badge" alt="MySQL" /></a>
+    <a href="#habilidades"><img src="https://img.shields.io/badge/⚡_SQLite-1e1e1e?style=for-the-badge" alt="SQLite" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/⚡_Visual_Basic-1e1e1e?style=for-the-badge" alt="Visual Basic" />
-    <img src="https://img.shields.io/badge/⚡_Unity_2D-1e1e1e?style=for-the-badge" alt="Unity 2D" />
-    <img src="https://img.shields.io/badge/⚡_AutoCAD-1e1e1e?style=for-the-badge" alt="AutoCAD" />
-    <img src="https://img.shields.io/badge/⚡_Office_365-1e1e1e?style=for-the-badge" alt="Office 365" />
+    <a href="#habilidades"><img src="https://img.shields.io/badge/⚡_Visual_Basic-1e1e1e?style=for-the-badge" alt="Visual Basic" /></a>
+    <a href="#habilidades"><img src="https://img.shields.io/badge/⚡_Unity_2D-1e1e1e?style=for-the-badge" alt="Unity 2D" /></a>
+    <a href="#habilidades"><img src="https://img.shields.io/badge/⚡_AutoCAD-1e1e1e?style=for-the-badge" alt="AutoCAD" /></a>
+    <a href="#habilidades"><img src="https://img.shields.io/badge/⚡_Office_365-1e1e1e?style=for-the-badge" alt="Office 365" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/⚡_Adobe_Photoshop-1e1e1e?style=for-the-badge" alt="Adobe Photoshop" />
-    <img src="https://img.shields.io/badge/⚡_Git_&_GitHub-1e1e1e?style=for-the-badge" alt="Git & GitHub" />
-    <img src="https://img.shields.io/badge/⚡_Lotus_1--2--3-1e1e1e?style=for-the-badge" alt="Lotus 1-2-3" />
+    <a href="#habilidades"><img src="https://img.shields.io/badge/⚡_Adobe_Photoshop-1e1e1e?style=for-the-badge" alt="Adobe Photoshop" /></a>
+    <a href="#habilidades"><img src="https://img.shields.io/badge/⚡_Git_&_GitHub-1e1e1e?style=for-the-badge" alt="Git & GitHub" /></a>
+    <a href="#habilidades"><img src="https://img.shields.io/badge/⚡_Lotus_1--2--3-1e1e1e?style=for-the-badge" alt="Lotus 1-2-3" /></a>
   </p>
 </div>
 
