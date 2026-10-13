@@ -4,18 +4,25 @@
 
 ## Sobre mí
 
-- **Rol:** Técnico en Computación (CPU, notebooks, tablets y celulares) y estudiante del **último año** de la carrera de Desarrollo de Software en el IFTS N.º 29.
-- **Enfoque Full Stack:** Disfruto crear proyectos desde cero y abarcar ambos mundos del desarrollo. Me apasiona construir tanto la arquitectura y lógica del servidor (Back End) como diseñar y maquetar la experiencia interactiva del usuario (Front End).
-- **Ubicación:** Barracas, Buenos Aires, Argentina.
-- **📚 Actualmente cursando (Último año del IFTS):**
-  - Desarrollo de Sistemas Web (Back End) con **Node.js**.
-  - Desarrollo de Sistemas Web (Front End) con **React**, integración de APIs y testing en React.
-  - Ingeniería de Software.
-  - Desarrollo e Implementación de Sistemas en la Nube (**AWS**).
-- **🚀 Formación adicional:**
-  - Curso de Frontend con **JavaScript** (extracurricular, enfocado en fortalecer mis fundamentos de desarrollo web para avanzar con confianza en React.
-  - Destaco especialmente la calidad de la enseñanza y el excelente acompañamiento de la profesora durante la cursada.)
-  - **Aguante < Talento Tech />**
+<ul>
+  <li><sub><code><b>Rol:</b> Técnico en Computación (CPU, notebooks, tablets y celulares) y estudiante del <b>último año</b> de la carrera de Desarrollo de Software en el IFTS N.º 29.</code></sub></li>
+  <li><sub><code><b>Enfoque Full Stack:</b> Disfruto crear proyectos desde cero y abarcar ambos mundos del desarrollo. Me apasiona construir tanto la arquitectura y lógica del servidor (Back End) como diseñar y maquetar la experiencia interactiva del usuario (Front End).</code></sub></li>
+  <li><sub><code><b>Ubicación:</b> Barracas, Buenos Aires, Argentina.</code></sub></li>
+  <li><sub><code>📚 <b>Actualmente cursando (Último año del IFTS):</b></code></sub>
+    <ul>
+      <li><sub><code>Desarrollo de Sistemas Web (Back End) con <b>Node.js</b>.</code></sub></li>
+      <li><sub><code>Desarrollo de Sistemas Web (Front End) con <b>React</b>, integración de APIs y testing en React.</code></sub></li>
+      <li><sub><code>Ingeniería de Software.</code></sub></li>
+      <li><sub><code>Desarrollo e Implementación de Sistemas en la Nube (<b>AWS</b>).</code></sub></li>
+    </ul>
+  </li>
+  <li><sub><code>🚀 <b>Formación adicional:</b></code></sub>
+    <ul>
+      <li><sub><code>Curso de Frontend con <b>JavaScript</b> (extracurricular, enfocado en fortalecer mis fundamentos de desarrollo web para avanzar con confianza en React. Destaco especialmente la calidad de la enseñanza y el excelente acompañamiento de la profesora durante la cursada.)</code></sub></li>
+      <li><sub><code><b>Aguante &lt; Talento Tech /&gt;</b></code></sub></li>
+    </ul>
+  </li>
+</ul>
 
 <div align="center">
   <h2 id="habilidades">Habilidades y tecnologías</h2>
