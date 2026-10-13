@@ -2,7 +2,7 @@
 
 # ¡Marcelo!
 
-## Sobre mí
+## Full Stack
 
 <ul>
   <li><sub><code><b>Rol:</b> Técnico en Computación (CPU, notebooks, tablets y celulares) y estudiante del <b>último año</b> de la carrera de Desarrollo de Software en el IFTS N.º 29.</code></sub></li>
